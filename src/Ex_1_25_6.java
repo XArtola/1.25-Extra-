@@ -60,7 +60,7 @@ public class Ex_1_25_6 {
 					+ " result chart\n" + "They are: \n");
 			for (int c = 0; dataBase.get(b).size() - 1 >= c; c++)
 				System.out.println(((FootballMatch) dataBase.get(b).get(c)).getLocalTeam() + " "
-						+ ((FootballMatch) dataBase.get(b).get(c)).getGoalsLocal() + " - "
+						+ ((FootballMatch)dataBase.get(b).get(c)).getGoalsLocal() + " - "
 						+ ((FootballMatch) dataBase.get(b).get(c)).getGoalsVisitor() + " "
 						+ ((FootballMatch) dataBase.get(b).get(c)).getVisitorTeam());
 
