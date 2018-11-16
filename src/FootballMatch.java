@@ -8,29 +8,29 @@
  */
 public class FootballMatch {
 
-	private String localTeam;
-	private String visitorTeam;
+	private Team localTeam;
+	private Team visitorTeam;
 	private int goalsLocal;
 	private int goalsVisitor;
 
-	public String getLocalTeam() {
+	public Team getLocalTeam() {
 		
 		return localTeam;
 	
         }
 
-	public void setLocalTeam(String LocalTeam) {
+	public void setLocalTeam(Team LocalTeam) {
 		
 		this.localTeam=LocalTeam;
 		
 	}
 
-	public String getVisitorTeam() {
+	public Team getVisitorTeam() {
 		
 		return visitorTeam;
 	}
 
-	public void setVisitorTeam(String visitorTeam) {
+	public void setVisitorTeam(Team visitorTeam) {
 		
 		this.visitorTeam = visitorTeam;
 		
