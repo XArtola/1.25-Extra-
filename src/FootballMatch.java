@@ -6,7 +6,7 @@
  * @author ik013043z1
  *
  */
-public class FootballMatch {
+public class FootballMatch{
 
 	private Team localTeam;
 	private Team visitorTeam;
