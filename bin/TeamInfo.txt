@@ -11,9 +11,9 @@ Alavés::stadium10::10::color10
 Reus::stadium11::11::color11
 Lugo::stadium12::12::color12
 Numancia::stadium13::13::color13
-Tenenrife::stadium14::14::color14
+Tenerife::stadium14::14::color14
 Osasuna::stadium15::15::color15
-Malaga::stadium16::16::color16
+Málaga::stadium16::16::color16
 Córdoba::stadium17::17::color17
 Extremadura::stadium18::18::color18
 Las Palmas::stadium19::19::color19

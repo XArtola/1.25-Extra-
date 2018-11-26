@@ -1,0 +1,29 @@
+player1::Leganés::1::1
+player2::Leganés::2::2
+player3::Atlético Madrid::3::3
+player4::Real Madrid::4::4
+player5::Real Madrid::5::5
+player6::Leganés::6::6
+player7::Real Madrid::7::7
+player8::Valladolid::8::8
+player9::Rayo Vallecano::9::9
+player10::Rayo Vallecano::10::10
+player11::Barcelona::11::11
+player12::Eibar::12::12
+player13::Osasuna::13::13
+player14::Leganés::14::14
+player15::Valladolid::15::15
+player16::Córdoba::16::16
+player17::Córdoba::17::17
+player18::Las Palmas::18::18
+player19::Leganés::19::19
+player20::Osasuna::20::20
+player21::Deportivo::21::21
+player22::Las Palmas::22::22
+player23::Deportivo::23::23
+player24::Deportivo::24::24
+player25::Elche::25::25
+player26::Leganés::26::26
+player27::Cádiz::27::27
+player28::Elche::28::28
+player29::Oviedo::29::29

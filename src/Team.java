@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /**
  * 
  */
@@ -13,6 +15,8 @@ public class Team {
 	private int wonLeagues;
 	private String shirtColor;
 
+	private ArrayList<Player> players = new ArrayList<Player> ();
+	
 	public String getName() {
 		
 		return name;
@@ -59,4 +63,18 @@ public class Team {
 		this.shirtColor=shirtColor;
 		
 	}
+	
+	public ArrayList<Player> getPlayers() {
+
+		return players;
+
+	}
+
+	public void setPlayer(Player player1) {
+
+		this.players.add(player1);
+
+	}
+	
+	
 }

@@ -9,7 +9,7 @@
 public class Player {
 
 	private String name;
-	private String shirtNumber;
+	private String team;
 	private int age;
 	private int height;
 
@@ -19,20 +19,20 @@ public class Player {
 	
         }
 
-	public void setLocalTeam(String name) {
+	public void setName(String name) {
 		
 		this.name=name;
 		
 	}
 
-	public String getShirtNumber() {
+	public String getTeam() {
 		
-		return shirtNumber;
+		return team;
 	}
 
-	public void setShirtNumber(String shirtNumber) {
+	public void setTeam(String team) {
 		
-		this.shirtNumber = shirtNumber;
+		this.team = team;
 		
 	}
 
